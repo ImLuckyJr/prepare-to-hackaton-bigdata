@@ -26,3 +26,11 @@
 [TenserFlow - однослойный персептрон](https://andreyex.ru/tensorflow-mashinnoe-obuchenie/tensorflow-odnoslojnyj-perseptron/)
 
 [Применение нейронных сетей с ПИД-регуляторами](https://cyberleninka.ru/article/v/primenenie-neyrosetevyh-regulyatorov-v-sistemah-upravleniya-elektroprivodami)
+
+## Подготовка среды для работы с нейронными сетями
+
+1. Устанавливаваем Anaconda с флешки.
+2. Открываем Anaconda prompt -> `conda install python=3.6` (при установке нас спросят подверждаем ли мы сие действие, вводим `y` и нажимаем Enter.
+3. В этом же окне прописываем `conda create --name PythonCPU`, затем `conda activate PythonCPU`.
+4. Далее `conda install -c anaconda keras`
+
