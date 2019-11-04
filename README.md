@@ -1,4 +1,7 @@
 # Подготовка к хакатону
+
+## Ардуино
+
 Скачиваем программу Ардуино для работы с микроконтроллерами - [скачать](https://www.arduino.cc/download_handler.php).
 Устанавливаем программу (не меняем параметры при установке).
 
@@ -11,4 +14,11 @@
 [Сервопривод](http://edurobots.ru/2014/04/arduino-servoprivod/)
 
 [Датчик температуры](https://arduinomaster.ru/datchiki-arduino/arduino-ds18b20/)
+
+## Нейронные сети
+
+[Нейронные сети для начинающих. Часть 1](https://habr.com/ru/post/312450/)
+
+[Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
+
 
