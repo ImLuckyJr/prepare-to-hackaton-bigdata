@@ -21,4 +21,8 @@
 
 [Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
 
+[Пример с созданием нейронной сети на питоне (Keras, Pandas, NumPy)](https://www.kaggle.com/arihant0497/try-shallow-before-going-deep)
 
+[TenserFlow - однослойный персептрон](https://andreyex.ru/tensorflow-mashinnoe-obuchenie/tensorflow-odnoslojnyj-perseptron/)
+
+[Применение нейронных сетей с ПИД-регуляторами](https://cyberleninka.ru/article/v/primenenie-neyrosetevyh-regulyatorov-v-sistemah-upravleniya-elektroprivodami)
