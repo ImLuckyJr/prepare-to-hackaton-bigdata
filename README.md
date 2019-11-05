@@ -36,6 +36,28 @@
 5. `conda install -c anaconda pandas`
 6. `conda install -c anaconda matplotlib`
 
+### Код для проверки наличия всех библиотек
+
+```
+import numpy as np # Для быстрых математических вычислений и работы с матрицами
+# import matplotlib.pyplot as plt # Для создания графиков
+import pandas as pd # Объединение, преобразование и абстрагирование данных
+import tensorflow # Импорт tensorflow
+import keras # Импорт keras
+from keras.utils import to_categorical
+from keras import models
+from keras import layers
+
+aNP = np.array([
+    [1, 2, 3, 4],
+    [5, 6, 7, 8]
+])
+print(aNP)
+
+my_series = pd.Series([5, 6, 7, 8, 9, 10])
+print(my_series)
+```
+
 ### Полезные ссылки 
 
 [Введение в pandas](https://khashtamov.com/ru/pandas-introduction/)
