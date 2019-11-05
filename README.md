@@ -15,18 +15,6 @@
 
 [Датчик температуры](https://arduinomaster.ru/datchiki-arduino/arduino-ds18b20/)
 
-## Нейронные сети
-
-[Нейронные сети для начинающих. Часть 1](https://habr.com/ru/post/312450/)
-
-[Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
-
-[Пример с созданием нейронной сети на питоне (Keras, Pandas, NumPy)](https://www.kaggle.com/arihant0497/try-shallow-before-going-deep)
-
-[TenserFlow - однослойный персептрон](https://andreyex.ru/tensorflow-mashinnoe-obuchenie/tensorflow-odnoslojnyj-perseptron/)
-
-[Применение нейронных сетей с ПИД-регуляторами](https://cyberleninka.ru/article/v/primenenie-neyrosetevyh-regulyatorov-v-sistemah-upravleniya-elektroprivodami)
-
 ## Подготовка среды для работы с нейронными сетями
 
 1. Устанавливаваем Anaconda с флешки.
@@ -58,7 +46,24 @@ my_series = pd.Series([5, 6, 7, 8, 9, 10])
 print(my_series)
 ```
 
-### Полезные ссылки 
+## Полезные ссылки 
+
+### Нейронные сети
+
+[Нейронные сети для начинающих. Часть 1](https://habr.com/ru/post/312450/)
+
+[Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
+
+[Пример с созданием нейронной сети на питоне (Keras, Pandas, NumPy)](https://www.kaggle.com/arihant0497/try-shallow-before-going-deep)
+
+[TenserFlow - однослойный персептрон](https://andreyex.ru/tensorflow-mashinnoe-obuchenie/tensorflow-odnoslojnyj-perseptron/)
+
+[Применение нейронных сетей с ПИД-регуляторами](https://cyberleninka.ru/article/v/primenenie-neyrosetevyh-regulyatorov-v-sistemah-upravleniya-elektroprivodami)
+
+[Андрей Созыкин. Нейронные сети, учебные курсы](https://www.asozykin.ru/)
+
+### Python и все, что с ним связано
 
 [Введение в pandas](https://khashtamov.com/ru/pandas-introduction/)
 
+[Подготовка среды (Anaconda, NumPy, Pandas, Matplotlib, Keras](https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb)
