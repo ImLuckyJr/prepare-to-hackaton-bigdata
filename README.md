@@ -1,6 +1,6 @@
-# Подготовка к хакатону
+# Большие данные и машинное обучение (БДиМО). Подготовка к хакатону.
 
-## Ардуино
+## Знакомство с ардуино, полезные ссылки
 
 Скачиваем программу Ардуино для работы с микроконтроллерами - [скачать](https://www.arduino.cc/download_handler.php).
 Устанавливаем программу (не меняем параметры при установке).
@@ -61,6 +61,10 @@ print(my_series)
 [Применение нейронных сетей с ПИД-регуляторами](https://cyberleninka.ru/article/v/primenenie-neyrosetevyh-regulyatorov-v-sistemah-upravleniya-elektroprivodami)
 
 [Андрей Созыкин. Нейронные сети, учебные курсы](https://www.asozykin.ru/)
+
+[Библиотеки для глубокого обучения: Keras](https://habr.com/ru/company/ods/blog/325432/)
+
+[Cоздание нейросети c Keras](https://neurohive.io/ru/tutorial/nejronnaya-set-keras-python/)
 
 ### Python и все, что с ним связано
 
