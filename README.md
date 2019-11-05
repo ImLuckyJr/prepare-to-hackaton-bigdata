@@ -25,7 +25,7 @@
 6. `conda install -c anaconda matplotlib`
 
 ### Код для проверки наличия всех библиотек
-
+> *Если код выполняется без каких-либо ошибок, на экран выводятся заданные значения, то это значит, что все необходимые библиотеки установлены. Этот код необходим только для проверки наличия всех нужных библиотек.*
 ```
 import numpy as np # Для быстрых математических вычислений и работы с матрицами
 # import matplotlib.pyplot as plt # Для создания графиков
@@ -68,6 +68,16 @@ print(my_series)
 
 ### Python и все, что с ним связано
 
+[NumPy, часть 1: начало работы](https://pythonworld.ru/numpy/1.html)
+
+[NumPy, часть 2: базовые операции над массивами](https://pythonworld.ru/numpy/2.html)
+
+[Подготовка среды (Anaconda, NumPy, Pandas, Matplotlib, Keras)](https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb)
+
 [Введение в pandas](https://khashtamov.com/ru/pandas-introduction/)
 
-[Подготовка среды (Anaconda, NumPy, Pandas, Matplotlib, Keras](https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb)
+[Руководство по использованию pandas для анализа больших наборов данных](https://habr.com/ru/company/ruvds/blog/442516/)
+
+[Изучаем pandas. Урок 1. Введение в pandas и его установка (Есть несколько уроков, которые могут быть полезными)](https://devpractice.ru/pandas-series-and-dataframe-part2/)
+
+[10 трюков библиотеки Python Pandas, которые вам нужны](https://proglib.io/p/pandas-tricks/)
