@@ -72,6 +72,10 @@ print(my_series)
 
 [NumPy, часть 2: базовые операции над массивами](https://pythonworld.ru/numpy/2.html)
 
+[Задание по NumPy](http://www.machinelearning.ru/wiki/images/5/58/MMP_Practicum_317_2015_1.pdf)
+
+[Задания по NumPy (все на англ.)](https://www.w3resource.com/python-exercises/numpy/index.php)
+
 [Подготовка среды (Anaconda, NumPy, Pandas, Matplotlib, Keras)](https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb)
 
 [Введение в pandas](https://khashtamov.com/ru/pandas-introduction/)
